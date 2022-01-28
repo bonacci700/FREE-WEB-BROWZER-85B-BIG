@@ -1,0 +1,10 @@
+C:\Users\bayfi\source\repos\Rocco\Rocco\bin\Debug\Rocco.exe.config
+C:\Users\bayfi\source\repos\Rocco\Rocco\bin\Debug\Rocco.exe
+C:\Users\bayfi\source\repos\Rocco\Rocco\bin\Debug\Rocco.pdb
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.csproj.AssemblyReference.cache
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.Form1.resources
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.Properties.Resources.resources
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.csproj.GenerateResource.cache
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.csproj.CoreCompileInputs.cache
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.exe
+C:\Users\bayfi\source\repos\Rocco\Rocco\obj\Debug\Rocco.pdb
